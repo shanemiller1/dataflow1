@@ -58,6 +58,21 @@ public class CsvParser {
     // place holder for write method (we'll add later with tests)
   }
 
+  protected void printCsv() {
+    /** printCsv - Printout the Csv */
+
+    for (Object row : fileRows) {
+      /*
+       So fileRows will be an Object type (which is fine we are just incrementing though it)
+            So after getting each row, we will need to "cast" row to a String array (String[])
+       */
+      for (String fields : (String[]) row) {
+          System.out.print(fields + ", ");
+      }
+      System.out.println("\b\b\n---------------------");
+    }
+  }
+
   private boolean checkFile(String csvfile) {
     /** checkFile - checks to ensure the file exists
      * @return false on file not found, true on found
@@ -68,20 +83,5 @@ public class CsvParser {
       // may change this to throw an exception
     }
     return true;
-  }
-
-  protected void printCsv() {
-    /** printCsv - Printout the Csv */
-
-    for (Object row : fileRows) {
-      /*
-       So fileRows will be an Object type (which is fine we are just incrementing though it)
-            So after getting each row, we will need to "cast" row to a String array (String[])
-       */
-      for (String fields : (String[]) row) {
-        System.out.print(fields + ", ");
-      }
-      System.out.println("\b\b\n---------------------");
-    }
   }
 }

@@ -1,0 +1,31 @@
+﻿Name,Date,EntryPoint,Region,Location,Accepted,Enrolled,SearchTerms,Engine,Reason
+John Smith,1-Aug,SE,US,Florida,Y,Y,"Local College, Health Degree",Google,
+Mark Johnson,1-Aug,SO,US,Florida,Y,Y,"Business Degree",Facebook,For Job
+Sally Ride,1-Aug,SE,US,Florida,Y,N,"Local College, Nursing Degree",Google,Nursing/Health Degree
+Sue Smith,2-Aug,SE,US,Florida,N,N,"Local College, Technology, Computers",Bing,Local College
+Mike O'Keith,2-Aug,PP,INT,UK,Y,N,,Website,Non-Profit
+Jill Marks,2-Aug,SE,US,Florida,Y,Y,"Local College, Non-Profit, For Job",Google,Technology Related
+Jill Smith,2-Aug,SO,US,Florida,Y,N,,Twitter,Low-Cost
+John Smith,3-Aug,BILL,US,Florida,Y,N,,Website,
+Bubba John,3-Aug,VEN,US,Florida,Y,Y,,College Recruiter,
+Sam Samuelson,4-Aug,SE,US,Florida,N,N,"For Job, Non-Profit, Programming",Google,Job
+Akira Zen,4-Aug,SO,INT,China,Y,Y,,Facebook,
+Victoria Becks,4-Aug,SE,US,Florida,Y,N,"Local College, Nursing Degree",Google,
+Daniel Thatcher,4-Aug,VEN,US,SC,Y,N,,Online College Degrees,
+Vic Manroe,4-Aug,PP,US,Florida,Y,Y,,Website,
+Betty Han,5-Aug,SE,INT,China,N,N,"Local College, Non-Profit, For Job",Google,
+Eve Green,6-Aug,SO,US,Florida,N,Y,,Facebook,
+Green Johnson,6-Aug,BILL,US,Florida,Y,Y,,Website,
+Rachel Roe,6-Aug,VEN,US,Florida,N,N,,Recruiter,Job
+Jordan Mike,7-Aug,SE,US,Florida,Y,Y,"Local College, Health Degree",Google,Cost
+Sue Merc,7-Aug,SO,US,Florida,Y,Y,,Facebook,Job
+Denise That,7-Aug,SE,US,Florida,Y,N,"Local College, Nursing Degree",Google,
+Josh Person,7-Aug,SE,US,Florida,N,N,"Local College, Technology, Computers",Bing,
+Man Child,7-Aug,PP,INT,UK,Y,N,,Recruiter,Business
+Jill Mathis,7-Aug,SE,US,Florida,Y,Y,"Local College, Non-Profit, For Job",Google,
+Sue Susan,7-Aug,SO,US,Florida,Y,N,,Twitter,
+John Bubba,8-Aug,VEN,US,Florida,Y,Y,,College Recruiter,Money
+Zen Asuna,8-Aug,SE,INT,China,N,N,"For Job, Non-Profit, Programming",Google,
+Akira Han,8-Aug,SO,INT,China,Y,Y,,Facebook,
+Julian Leah,9-Aug,SO,US,Florida,Y,N,,Twitter,
+Rebecca Rose,9-Aug,SO,US,Florida,Y,N,,Twitter,Future
