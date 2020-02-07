@@ -7,6 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 // just to check if these are found
 
-public class BookStoreDB {
 
-}
+/**
+ * Class for the book store data base.
+ */
+public class BookStoreDB {}
