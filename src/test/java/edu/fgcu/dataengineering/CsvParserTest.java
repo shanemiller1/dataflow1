@@ -2,6 +2,8 @@ package edu.fgcu.dataengineering;
 
 import com.opencsv.exceptions.CsvValidationException;
 import java.io.IOException;
+
+import edu.fgcu.shanemiller1.CSV;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
