@@ -1,16 +1,13 @@
-## Database data flows
+Shane Miller
 
-### CSVParser
-- The first iteration is just reading from a csv file 
-and then printing it out.
-- Second iteration read the file and load into a SQLite database.
-- Third iteration perform selects on DB and write it out as csv.
-- Fourth iteration update DB based on csv.
+This will be our project (the readme on the example repository has more). ALL Assignments should be a GITHUB repostitory:
 
-### JSON (GSON) 
-- First iteration, read a csv file 
-and then load it into a database
-- Second iteration write the results of select queries to a JSON file
+Iteration 1: Create a Maven project with OpenCSV working & read & print the contents of a file (an action called parsing).
+ParseCSV
+In the first 3 iterations we will read a CSV file into a Database & then write out a CSV from the results of a select query.
 
-### XML (SOUP)
-- Extra credit if also complete JSON task with JSoup (XML).
+JSON
+The other main data flow for local files, we will be reading a JSON into a database and then writing one out based on a SQL query.
+
+HTML/XML
+Extra credit if you want to try using JSoup.
